@@ -1,0 +1,1 @@
+[['sabrina', 'colignon', 23, 70.0, 1.6, [24.5, 'peso normal.']], ['adriel', 'irigoitia', 23, 90.0, 1.86, [24.5, 'peso normal.']], ['sofia', 'rodriguez', 22, 75.0, 1.75, [24.5, 'peso normal.']]]

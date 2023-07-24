@@ -1,0 +1,1 @@
+[['sabrina', 'colignon', 23, 80.0, 1.6, (31.25, 'obesidad tipo 1.')]]

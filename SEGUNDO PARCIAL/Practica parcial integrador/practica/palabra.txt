@@ -1,0 +1,4 @@
+sol
+auto
+casa
+panal

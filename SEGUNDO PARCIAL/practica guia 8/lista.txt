@@ -1,0 +1,14 @@
+Lopez Javier-Promedio:77.0
+Condición: Regular
+Garcia Ana-Promedio:79.33
+Condición: Regular
+Farias Daniel-Promedio:52.0
+Condición: Libre
+Zapata Mateo-Promedio:80.33
+Condición: Promocional
+Tarabini Luciana-Promedio:58.33
+Condición: Libre
+Gonzales Maria-Promedio:66.0
+Condición: Regular
+Vazques Jorge-Promedio:51.33
+Condición: Libre
